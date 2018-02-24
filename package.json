@@ -1,0 +1,11 @@
+{
+  "name": "censorify.custom.mods",
+  "version": "1.0.0",
+  "description": "Censors an array of words",
+  "main": "censorify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Collins",
+  "license": "ISC"
+}
